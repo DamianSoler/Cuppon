@@ -1,0 +1,70 @@
+/*Estilos de la Navbar*/
+
+.navbar{
+    background-color: #28A745;
+}
+
+/*Estilos de Cartas*/
+
+.titulocarta{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #212529;
+}
+.descripcioncarta{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+    margin-bottom: 0;
+}
+.direccioncarta{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #707070;
+}
+.fa-solid{
+    color: #707070;
+}
+.precio1{
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+.precio2{
+    font-weight: 500;
+    font-size: 20px;
+    color:#28A745
+}
+
+/*Estilos de newsletter*/
+
+.newsletter{
+    background-color: #28A745;
+}
+.titulonewsletter{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+}
+.formas{
+    width: 80%;
+}
+
+/*Estilos del footer*/
+
+.imgfoot{
+    max-width: 82px;
+}
+
+.footext{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+    text-align: center;
+}
